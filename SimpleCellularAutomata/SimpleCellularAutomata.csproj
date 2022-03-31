@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Syko.SimpleCellularAutomata</RootNamespace>
+    <Authors>Andrin Riiet</Authors>
+    <Company />
+    <PackageId>Syko.SimpleCellularAutomata</PackageId>
+    <Product>SimpleCellularAutomata</Product>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>A 2D Cellular Automata simulator that supports custom neighborhoods and rules.</Description>
+    <PackageTags>Cellular Automata, Game of Life, Simulator, Procedular, Generator, Conway</PackageTags>
+  </PropertyGroup>
+
+</Project>
