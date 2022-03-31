@@ -9,8 +9,7 @@ This simulator was written and used for the game [Cellular Automata: Conway's Ga
 ```csharp
 // The rules of the simulation is defined as a CASpec object.
 CASpec spec = new CASpec(
-	new int[,] // 2d array defining the neighbors that are counted for a cell (cell itself in the middle)
-	{
+	new int[,] { // 2d array defining the neighbors that are counted for a cell (cell itself in the middle)
 		{ 1, 1, 1 },
 		{ 1, 0, 1 },
 		{ 1, 1, 1 }
