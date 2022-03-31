@@ -40,3 +40,7 @@ simulator.step();
 bool[,] state = simulator.GetState().Clone();
 
 ```
+
+## License
+
+MIT
