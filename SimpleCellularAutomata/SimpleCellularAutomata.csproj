@@ -10,6 +10,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>A 2D Cellular Automata simulator that supports custom neighborhoods and rules.</Description>
     <PackageTags>Cellular Automata, Game of Life, Simulator, Procedular, Generator, Conway</PackageTags>
+    <RepositoryUrl>https://github.com/syko/SimpleCellularAutomata</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
